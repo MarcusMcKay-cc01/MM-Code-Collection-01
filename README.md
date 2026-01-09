@@ -15,10 +15,10 @@ criminal justice sectors.
 * **Specialties:** Epidemiological Research Design, Causal Inference, Program Evaluation, Frequency Analysis, Data Classification, Data Visualization, Dashboard Development.
 
 ## Featured Projects
-**1. Project One Title**
+** DRAFT - 1. Surveillence of nCovid19 Cases Per County**
 * Methods:
-* Tools:
-* Deliverables:
+* Tools: R-Studio (Shiny Package)
+* Deliverables: 
 * Key Finding:
   
 **2. Project Two Title**
