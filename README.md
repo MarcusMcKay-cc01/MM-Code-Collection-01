@@ -15,11 +15,11 @@ criminal justice sectors.
 * **Specialties:** Epidemiological Research Design, Causal Inference, Program Evaluation, Frequency Analysis, Data Classification, Data Visualization, Dashboard Development.
 
 ## Featured Projects
-** DRAFT - 1. Surveillence of nCovid19 Cases Per County**
-* Methods:
+** 1. Surveillence of nCovid19 Cases Per County**
+* Methods: Interactive Data Visualization, Dashboard Development
 * Tools: R-Studio (Shiny Package)
-* Deliverables: 
-* Key Finding:
+* Deliverables: This dashboard report analyzes nCOVID-19 cases by country. Link: https://mlmj26.shinyapps.io/nCovid19_Cases_Per_Country_RMarkdown/
+* Key Finding: For most countries, reported nCOVID-19 cases gradually increased at the beginning of the pandemic (2019-2020) and then spiked during the year 2022 before gradually decreasing by 2023.
   
 **2. Project Two Title**
 * Methods:
