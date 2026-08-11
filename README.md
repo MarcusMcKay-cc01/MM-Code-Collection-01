@@ -9,27 +9,29 @@ statistical findings to both technical and non-technical audiences across health
 criminal justice sectors.
 
 ## Technical Skills
-* **Advance Programming Platforms:** SQL, R, SAS 9.4, SPSS, STATA, PowerBI, Tableau.
+* **Advance Programming Platforms:** SQL, R/RStudio, SAS 9.4, SPSS, STATA, PowerBI, Tableau.
 * **Analysis Performed:** Linear Regression, Logisitc Regression, Survival Analysis, Natrual Language Processing, Machine Learning.
 * **Data Cleaning and Management:** Date Formatting, Cohort Construction, Code Documentation, Code Version Control, R Markdown.
 * **Specialties:** Epidemiological Research Design, Causal Inference, Program Evaluation, Frequency Analysis, Data Classification, Data Visualization, Dashboard Development.
 
 ## Featured Projects
-** 1. Surveillence of Confirmed Covid19 Cases Per County**
-* Methods: Interactive Data Visualization, Dashboard Development
-* Tools: R-Studio (Shiny Package)
+**1. Surveillence of Confirmed Covid19 Cases Per County**
+* Data: World Health Organization (2026) – “Weekly Confirmed COVID-19 Cases”.
+* Methods: Interactive Data Visualization, Dashboard Development.
+* Tools: R-Studio (Shiny Package).
 * Deliverables: The dashboard visualizes the weekly confirmed COVID-19 cases for each country, organized by year. Link: https://mlmj26.shinyapps.io/nCovid19_Cases_Per_Country_RMarkdown/
 * Key Finding: For most countries, reported confirmed COVID-19 cases gradually increased at the beginning of the pandemic (2019-2020) and then spiked during the year 2022 before gradually decreasing by 2023.
-  
-**2. Project Two Title**
-* Methods:
-* Tools:
-* Deliverables:
-* Key Finding:
+
+**2. Socioeconomic Gradients and The Prevalence of Cardiovascular Diseases Among Older Adults in South Africa**
+* Data: Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community in South Africa (HAALSI): Agincourt, South Africa, 2015-2019. Accessed through University of Michigan ICPSR.
+* Models: Log-Binomial regression models with robust standard errors and logarithmic-link functions (tailored for binary outcomes) were used to generate prevalence ratios (PRs) and the 95% confidence intervals (CIs).
+* Tools: SAS 9.4 - Data Management & Data Modeling.
+* Deliverables: Developed and carried out epidemiological research aimed to evaluate if increased household consumption and assets will be protective against cardiometabolic diseases such as hypertension and diabetes among older adults.
+* Key Finding: Findings communicated there was a positive relationship between household assets and consumption explaining hypertension and diabetes among members within the study population. Furthermore, this study is an example of how metrics defining social economic status can be used to quantify the relationship between exposures and outcomes.
   
 **3. Project Three Title**
 * Methods:
-* Tools:
+* Tools: <note make this project SQL related>
 * Deliverables:
 * Key Finding:
 
