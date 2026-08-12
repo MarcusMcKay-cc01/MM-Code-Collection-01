@@ -23,12 +23,12 @@ criminal justice sectors.
 * Key Finding: For most countries, reported confirmed COVID-19 cases gradually increased at the beginning of the pandemic (2019-2020) and then spiked during the year 2022 before gradually decreasing by 2023.
 
 **2. Socioeconomic Gradients and The Prevalence of Cardiovascular Diseases Among Older Adults in South Africa**
-* Data: Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community in South Africa (HAALSI): Agincourt, South Africa, 2015-2019. Accessed through University of Michigan ICPSR.
-* Models: Log-Binomial regression models with robust standard errors and logarithmic-link functions (tailored for binary outcomes) were used to generate prevalence ratios (PRs) and the 95% confidence intervals (CIs).
-* Tools: SAS 9.4 - Data Management & Data Modeling.
-* Deliverables: Developed and carried out epidemiological research aimed to evaluate if increased household consumption and assets will be protective against cardiometabolic diseases such as hypertension and diabetes among older adults.
-* Key Finding: Findings communicated there was a positive relationship between household assets and consumption explaining hypertension and diabetes among members within the study population. Furthermore, this study is an example of how metrics defining social economic status can be used to quantify the relationship between exposures and outcomes.
-  
+* Data: Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community in South Africa (HAALSI): Agincourt, South Africa, 2015–2019 (Accessed via University of Michigan ICPSR).
+* Statistical Models: Log-Binomial regression models with robust standard errors and logarithmic-link functions (tailored for binary outcomes) were used to generate prevalence ratios (PRs) and the 95% confidence intervals (CIs).
+* Software & Tools: SAS 9.4 - Data Management and Data Modeling.
+* Deliverables: Designed and conducted epidemiological research investigating whether increased household consumption and asset accumulation mitigate against cardiometabolic diseases, such as hypertension and diabetes, in an aging cohort.
+* Key Finding: Demonstrated a positive relationship between household assets/consumption and the prevalence of hypertension and diabetes within the study population. Highlighted the utility of socioeconomic status metrics in quantifying exposure-outcome relationships among older adult cohorts.
+
 **3. Project Three Title**
 * Methods:
 * Tools: <note make this project SQL related>
