@@ -29,12 +29,6 @@ criminal justice sectors.
 * Deliverables: Designed and conducted epidemiological research investigating whether increased household consumption and asset accumulation mitigate against cardiometabolic diseases, such as hypertension and diabetes, in an aging cohort.
 * Key Finding: Demonstrated a positive relationship between household assets/consumption and the prevalence of hypertension and diabetes within the study population. Highlighted the utility of socioeconomic status metrics in quantifying exposure-outcome relationships among older adult cohorts.
 
-**3. Project Three Title**
-* Methods:
-* Tools: <note make this project SQL related>
-* Deliverables:
-* Key Finding:
-
 ## Education
 **The University of Michigan School of Public Health - Master of Public Health in Epidemiology**
 
