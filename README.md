@@ -27,6 +27,7 @@ criminal justice sectors.
 * Statistical Models: Log-Binomial regression models with robust standard errors and logarithmic-link functions (tailored for binary outcomes) were used to generate prevalence ratios (PRs) and the 95% confidence intervals (CIs).
 * Software & Tools: SAS 9.4 - Data Management and Data Modeling.
 * Deliverables: Designed and conducted epidemiological research investigating whether increased household consumption and asset accumulation mitigate against cardiometabolic diseases, such as hypertension and diabetes, in an aging cohort.
+* Link To Research Paper: DRAFT-marcusmj_lck_ILE_604_04.30.2021.pdf
 * Key Finding: Demonstrated a positive relationship between household assets/consumption and the prevalence of hypertension and diabetes within the study population. Highlighted the utility of socioeconomic status metrics in quantifying exposure-outcome relationships among older adult cohorts.
 
 ## Education
@@ -52,8 +53,8 @@ for statistical analysis (Survey Design, Networks, Logics & Logistics of Qualita
 and data visualization (Tableau, Microsoft BI).
 
 
-## Contact - Email: marcusmckayjr@gmail.com
-## LinkedIn - https://www.linkedin.com/in/marcus-mckay-jr/
+**Contact - Email: marcusmckayjr@gmail.com**
+**LinkedIn - https://www.linkedin.com/in/marcus-mckay-jr/**
 <!---
 README Starter Pack
 - 👋 Hi, Welcome to my Code Collection (vrs 01)
