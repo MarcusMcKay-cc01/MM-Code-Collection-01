@@ -55,6 +55,7 @@ and data visualization (Tableau, Microsoft BI).
 ## Contact Information
 
 **Contact -** Email: marcusmckayjr@gmail.com
+
 **LinkedIn -** https://www.linkedin.com/in/marcus-mckay-jr/
 <!---
 README Starter Pack
